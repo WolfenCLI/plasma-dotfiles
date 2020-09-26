@@ -23,7 +23,7 @@ alias mv="mv -i"
 alias ll="ls -lh"
 alias la="ls -lah"
 alias vim="nvim"
-alias ts1="tmux new -s TMUX1"
+alias ts="tmux new -s TMUX1"
 alias ts2="tmux new -s TMUX2"
 
 POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=0
