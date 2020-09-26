@@ -1,4 +1,4 @@
-sudo pacman -S tmux zsh zsh-autosuggestions git yay alacritty curl flameshot rclone
+sudo pacman -S tmux zsh zsh-autosuggestions git yay alacritty curl flameshot rclone base-devel
 yay -S brave-nightly-bin 
 
 ln -s "$PWD/.profile" "$HOME/.profile"
