@@ -14,3 +14,5 @@ set expandtab
 set shiftwidth=4
 set tabstop=4
 
+" Use system clipboard
+set clipboard=unnamed
